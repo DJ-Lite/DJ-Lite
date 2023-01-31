@@ -7,11 +7,10 @@ My name is Liam. I'm 15 years old.
 My online name is DJ-Lite.
 
 ## Contact
-Discord: DJ-Lite#5600
+Discord: DJ-Lite#5600 </br>
 Email: djlite@djlite.be
 
 
-Support Email: support@djlite.be
-[Discord Server](https://discord.djlite.be)
+Support Email: support@djlite.be </br>
+[Discord Server](https://discord.djlite.be) </br>
 [Website](https://www.djlite.be)
-
