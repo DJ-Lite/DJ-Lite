@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello, I'm DJ-Lite
+[![Discord Server](https://img.shields.io/badge/discord-join%20my%20server-5865F2.svg?style=flat-square&logo=discord)](https://discord.djlite.be)
 
 <!--
 **DJ-Lite/DJ-Lite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
