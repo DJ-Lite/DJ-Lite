@@ -1,17 +1,17 @@
 # Hello, I'm DJ-Lite
 [![Discord Server](https://img.shields.io/badge/discord-join%20my%20server-5865F2.svg?style=flat-square&logo=discord)](https://discord.djlite.be)
+[![Website](https://img.shields.io/badge/Website-blue.svg?style=flat-square)](https://www.djlite.be)
+[![Documenten](https://img.shields.io/badge/Documenten-green.svg?style=flat-square)](https://www.docs.djlite.be)
 
-<!--
-**DJ-Lite/DJ-Lite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Liam. I'm 15 years old. 
+My online name is DJ-Lite.
 
-Here are some ideas to get you started:
+## Contact
+Discord: DJ-Lite#5600
+Email: djlite@djlite.be
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Support Email: support@djlite.be
+[Discord Server](https://discord.djlite.be)
+[Website](https://www.djlite.be)
+
