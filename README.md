@@ -11,6 +11,6 @@ Discord: DJ-Lite#5600 </br>
 Email: djlite@djlite.be
 
 
-[![Support Email](https://img.shields.io/badge/Support%20Email-yellow.svg?style=flat-squar)(support@djlite.be)</br>
+[![Support Email](https://img.shields.io/badge/Support%20Email-yellow.svg?style=flat-squar)(mailto:support@djlite.be)</br>
 [![Discord Server](https://img.shields.io/badge/discord-join%20my%20server-5865F2.svg?style=flat-square&logo=discord)](https://discord.djlite.be) </br>
 [![Website](https://img.shields.io/badge/Website-blue.svg?style=flat-square)](https://www.djlite.be)
